@@ -1,7 +1,72 @@
-- 👋 Hi, I’m @RiscyX (Richard Vass)
-- 👀 I’m interested in web development. I am currently a College Student, studying Computer Engineering in Subotica Tech - College of Applied Sciences.
+# Hi, I’m Richárd!
 
-<!---
-RiscyX/RiscyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my profile! 🎉
+
+**Backend Developer | PHP | Interested in DevOps**
+
+---
+
+## About Me
+
+* 🎓 Computer Engineering student at VTS Subotica.
+* 💻 Passionate about building PHP web applications.
+* ☁️ Learning Azure, Docker, and CI/CD.
+* 🚀 Creating value through my projects.
+
+---
+
+## Skills
+
+* **Languages & Frameworks:** PHP (Drupal), JavaScript (React & React Native)
+* **Databases:** MySQL, PostgreSQL, MariaDB
+* **DevOps & Cloud:** Docker, GitHub Actions
+* **Tools:** Git, Composer, npm/yarn, VS Code, PhpStorm
+
+---
+
+## Languages
+
+* Hungarian (Native)
+* English (Limited proficiency)
+
+---
+
+## Experience
+
+* **Studio Present – Backend Developer Intern** *(April 2025 – June 2025)*
+
+  * Developed custom Drupal modules and features.
+  * Applied OOP principles.
+
+* **XperiCAD – C# Backend Developer**
+
+  * Developed Windows .NET desktop applications.
+  * Applied OOP and SOLID principles to maintainable, scalable codebase.
+
+## Projects
+
+### FeriWebDevProject – Intelligent Refrigerator Management System
+
+* Web application to track refrigerator contents, suggest recipes based on available ingredients.
+* **Tech Stack:** PHP, MySQL, JS, Bootstrap.
+* 🇭🇺 Fully developed in Hungarian; repository: [FeriWebDevProject](https://github.com/RiscyX/FeriWebDevProject)
+
+---
+
+## Portfolio & Live Demos
+
+* 🌐 [Portfolio Website](https://vassrichard.me) – About me.
+* 🌐 [Blog](https://vassrichard.me) – Check out my latest posts and tutorials.
+* 🌐 [FeriWebDevProject Demo](https://feri.stud.vts.su.ac.rs/) – Intelligent Refrigerator Management System live demo.
+* 💻 [GitHub](https://github.com/RiscyX) – Browse all of my public repositories.
+
+---
+
+## Contact
+
+* 📧 [richard.vass@example.com](mailto:richard.vass@example.com)
+* 💼 [LinkedIn](https://linkedin.com/in/richard-vass)
+
+---
+
+*“Learning never stops—there’s always a new challenge ahead!”*
