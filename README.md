@@ -38,7 +38,7 @@ Welcome to my profile! 🎉
   * Developed custom Drupal modules and features.
   * Applied OOP principles.
 
-* **XperiCAD – C# Backend Developer**
+* **XperiCAD – C# Backend Developer Intern** *(Mar 2022 - Mar 2023)*
 
   * Developed Windows .NET desktop applications.
   * Applied OOP and SOLID principles to maintainable, scalable codebase.
