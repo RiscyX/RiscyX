@@ -2,7 +2,7 @@
 
 Welcome to my profile! 🎉
 
-**Backend Developer | PHP | Interested in DevOps**
+**Student | PHP | React | Interested in DevOps**
 
 ---
 
