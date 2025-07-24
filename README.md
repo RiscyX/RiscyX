@@ -9,7 +9,7 @@ Welcome to my profile! 🎉
 ## About Me
 
 * 🎓 Computer Engineering student at VTS Subotica.
-* 💻 Passionate about building PHP web applications.
+* 💻 Passionate about building web applications.
 * ☁️ Learning Azure, Docker, and CI/CD.
 * 🚀 Creating value through my projects.
 
