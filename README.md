@@ -55,7 +55,7 @@ Welcome to my profile! 🎉
 
 ## Portfolio & Live Demos
 
-* 🌐 [Personal website](https://vassrichard.tech) – About me.
+* 🌐 [Personal website](https://vassrichard.dev) – About me.
 * 🌐 [FeriWebDevProject Demo](https://feri.stud.vts.su.ac.rs/) – Intelligent Refrigerator Management System live demo.
 * 💻 [GitHub](https://github.com/RiscyX) – Browse all of my public repositories.
 
