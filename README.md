@@ -2,7 +2,7 @@
 
 Welcome to my profile! 🎉
 
-**Student | PHP | React | Interested in DevOps**
+**Student | PHP | React | Interested in Web Technologies**
 
 ---
 
